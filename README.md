@@ -27,7 +27,7 @@ cp peserta.csv.example peserta.csv
 ```
 
 - Adjust the variable in the file `run.sh` or just leave the default.
-- Give the script 
+- Give the script an executable flag with `chmod`
 
 ```
 chmod +x run.sh
