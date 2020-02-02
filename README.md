@@ -2,7 +2,6 @@
 
 Run multiple docker container with ssh access.
 
-
 ## Usage
 
 - Make sure you have docker installed on your machine and can run perfectly.
@@ -39,6 +38,10 @@ chmod +x run.sh
 ```
 ./run.sh -s
 ```
+
+## Screencast
+
+[![asciicast](https://asciinema.org/a/EofB9u6rkBje4lEqkc0kxwJ3B.svg)](https://asciinema.org/a/EofB9u6rkBje4lEqkc0kxwJ3B)
 
 ## LICENSE
 
